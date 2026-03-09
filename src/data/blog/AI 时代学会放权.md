@@ -1,6 +1,6 @@
 ---
 author: 浩楠
-pubDatetime: 2026-03-09T21:00:00+08:00
+pubDatetime: 2026-03-07T21:00:00+08:00
 title: AI 时代学会放权
 postSlug: "2026-03-09"
 featured: false
